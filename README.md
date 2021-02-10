@@ -1,6 +1,6 @@
-# flutter_app78
+# Random dice number
 
-A new Flutter application.
+It's a basic practice for some general topic like random function countainer Expeand and some others.
 
 ## Getting Started
 
