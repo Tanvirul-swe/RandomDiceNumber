@@ -1,6 +1,6 @@
 # Random dice number
 
-It's a basic practice for some general topic like random function countainer Expeand and some others.
+It's a basic practice for some general topics like random function and some widgets like container, Expand, padding, stateful widget, and some others.
 
 ## Getting Started
 
